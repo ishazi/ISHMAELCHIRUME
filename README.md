@@ -1,4 +1,4 @@
-ISHMAELCHIRUME
+#ISHMAELCHIRUME
 MEDICAL_RECOMMDER
 👋 Hi there! I'm a Computer Science student passionate about building intelligent software and solving real-world problems with code.
 💻 I enjoy working with Python, Java, and modern tools like TensorFlow, PyTorch, and Hugging Face.
